@@ -1,9 +1,9 @@
-# Dinesh Pandiyan
+# Mobeen Ashraf
 
-This repo holds my **Dev Landing Page**, a one stop shop to everything I do online. 🎉
+This is the repo for my **Personal site**. 🎉
 
-`master` branch has the deploy files. The source code is in `dev` branch [here](https://github.com/flexdinesh/flexdinesh.github.io/tree/dev).
+The source code is a fork from [here](https://github.com/flexdinesh/flexdinesh.github.io/).
 
 ## License
 
-MIT © Dinesh Pandiyan
+MIT © Mobeen Ashraf
