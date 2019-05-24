@@ -12,7 +12,7 @@ const LandingPage = (props, context) => {
 
   return (
     <div style={{ backgroundColor: bgPrimary }} className="landing-page">
-      <Nav />
+    {/*<Nav />*/}
       <main style={{ color: colorPrimary }}>
         <BrowserNotes />
         <div className="intro-wrapper">
